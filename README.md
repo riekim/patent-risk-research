@@ -1,4 +1,4 @@
-# 🚀 Patent Risk Assessment Research
+# 📝 Patent Risk Assessment Research
 > **A patent risk assessment model based on TSM logic, implemented via prompt fine-tuning.**
 > 
 > (프롬프트 파인튜닝 기술과 TSM 법리 로직을 활용한 AI 기반 특허 리스크 판단 연구 파이프라인)
